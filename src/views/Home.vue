@@ -254,7 +254,7 @@
                     <img src="img/blockfi-logo.png" class="img-fluid" style="max-height:75px;" alt="BlockFi logo">
                   </p>
                   <p>
-                    BlockFi lets you earn up to 8.6% interest on your crypto. They also offer
+                    BlockFi lets you earn up to 7.5% interest on your crypto. They also offer
                     the world's first Bitcoin rewards credit card. Sign up today and get up to $250 in free Bitcoin with a deposit of $100 or more.
                     Just click the button below.
                   </p>
@@ -314,9 +314,9 @@
               <br>
               Affiliate links are used on this site to earn income to make this site possible.
               <br>
-              This is for informational purposes only. This is not financial advice. Read the <a href="./bitcoin.pdf" target="_blank">Bitcoin white paper</a>.
+              This is for informational purposes only. This is not financial advice. Read the <a href="./bitcoin.pdf" target="_blank" rel="nofollow">Bitcoin white paper</a>.
               <br>
-              Copyright &copy; {{year}} <a href="https://www.linkedin.com/in/grantbartel/">Grant Bartel</a>. All rights reserved.
+              Copyright &copy; {{year}} <a href="https://twitter.com/granthbartel" target="_blank" rel="nofollow">Grant Bartel</a>. All rights reserved.
             </div>
           </div>
         </div>
